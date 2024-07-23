@@ -25,4 +25,4 @@ const LoadInsert = async () => {
   }
 };
 
-// LoadInsert();
+LoadInsert(); 
